@@ -1,0 +1,14 @@
+{
+  "name": "leenbroon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saver": "node fileSaver.js"  },
+  "keywords": [],
+  "author": "Milos Linbrun",
+  "license": "ISC",
+  "dependencies": {
+    "oracledb": "^5.1.0"  }
+}
